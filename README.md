@@ -1,6 +1,10 @@
 # GIS-Based Crop Coefficient ($K_c$) Estimation for Precision Agriculture
 
 <p>
+<img src="./results/Bacita_Sat_Map.png" alt="Final GIS Plot" style="width:100%; height:auto; border-radius: 10px;">
+</p>
+
+<p>
 <img src="./results/Bacita_Final_GIS_Plot.png" alt="Final GIS Plot" style="width:100%; height:auto; border-radius: 10px;">
 </p>
 
